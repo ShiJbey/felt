@@ -1,0 +1,29 @@
+{
+  "name": "felt",
+  "version": "1.0.0",
+  "description": "Felt is a simple [story sifting](https://mkremins.github.io/publications/Felt_SimpleStorySifter.pdf) and simulation engine for emergent narrative play experiences. It provides narrative system developers with tools for defining _story sifting patterns_ that match narratively potent sequences of events, and for building simulations in which characters make use of story sifting to reason about the world.",
+  "main": "felt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShiJbey/felt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShiJbey/felt/issues"
+  },
+  "homepage": "https://github.com/ShiJbey/felt#readme",
+  "dependencies": {
+    "datascript": "^1.0.1",
+    "lodash": "^4.17.20",
+    "tslib": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.167"
+  }
+}

@@ -1,4 +1,4 @@
-# Felt
+# Felt (Typescript)
 
 Felt is a simple [story sifting](https://mkremins.github.io/publications/Felt_SimpleStorySifter.pdf) and simulation engine for emergent narrative play experiences. It provides narrative system developers with tools for defining _story sifting patterns_ that match narratively potent sequences of events, and for building simulations in which characters make use of story sifting to reason about the world.
 
@@ -32,3 +32,7 @@ In addition to the `felt.js` file included here, you'll also need some version o
 For more information about Felt, see the following publication:
 
 * [Felt: A Simple Story Sifter](https://mkremins.github.io/publications/Felt_SimpleStorySifter.pdf). Max Kreminski, Melanie Dickinson, and Noah Wardrip-Fruin. International Conference on Interactive Digital Storytelling (ICIDS), 2019.
+
+## To-Do
+* Complete the datascript type definitions in ```datascript.d.ts```
+* Annotate argument and return types for functions
